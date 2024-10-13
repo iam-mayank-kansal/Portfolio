@@ -205,7 +205,7 @@ export default function Home() {
                                     src="/mayank.jpg"
                                 />
                                 <AvatarFallback className="text-6xl font-bold text-center w-full h-full flex items-center justify-center">
-                                    AG
+                                    MK
                                 </AvatarFallback>
                             </Avatar>
                         </BlurFade>
