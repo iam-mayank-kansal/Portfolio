@@ -151,6 +151,7 @@ export default function Home() {
         <div className="">
             <section id="hero">
                 <div className="mx-auto w-full max-w-2xl space-y-4 sm:space-y-8">
+
                     <div className="gap-2 flex justify-between">
                         <div className="flex-col flex flex-1 space-y-1.5">
                             <BlurFade delay={BLUR_FADE_DELAY}>
@@ -214,7 +215,7 @@ export default function Home() {
                         className="flex gap-3 sm:hidden"
                     >
                         <Link
-                            href="https://drive.google.com/file/d/1wPyEPWPzfSSmk5lwP6279Tt6vzUMp5xT/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1hXqoPTYoQsJKspMfo38hL9M6ZKMQP_vW/view?usp=sharing"
                             target="_blank"
                             className="flex items-center"
                         >
